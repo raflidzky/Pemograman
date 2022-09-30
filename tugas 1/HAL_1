@@ -1,0 +1,14 @@
+<html>
+	<head>
+	<title>Website Utama</title>
+	</head>
+	<body background="nanci.jpg">
+	<h1 align="center"> Web Sistem Informasi</h1>
+	<hr>
+	<center>
+	<a href="HAL_2"><font color="blue"><u>Halaman Informasi Teks</u></font></a href><br><br>
+	<a href="HAL_3"><font color="blue"><u>Halaman Informasi Barang dan Harga</u></font></a href><br><br>
+	<a href="HAL_4"><font color="blue"><u>Halaman Informasi Pemasukan Barang</u></font></a href>
+	</center>
+	</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+	<body background="Comp 27.jpg">
+	<center>
+		<h1 align="center">Halaman Informasi Pemasukan Barang</h1>
+		<hr><br>
+		<table border="2" cellpadding="1" cellspacing="1">
+		<tr>
+		<th>Nama Barang</th>
+		<th>Stok Barang</th>
+		</tr>
+		<tr>
+		<td>Hard Disk</td>
+		<td>500 Unit</td>
+		</tr>
+		<tr>
+		<td>CD Room</td>
+		<td>250 Unit</td>
+		</tr>
+		<tr>
+		<td>VGA</td>
+		<td>100 Unit</td>
+		</tr>
+		</table><br>
+		<a href="HAL_1"><font color="blue"><button><u>Home</u></button></font></a href><br>
+		<a href="HAL_3"><font color="blue"><button><u>Back</u></button></font></a href>
+		</center>
+	</body>
+</html>
