@@ -1,0 +1,13 @@
+<html>
+<body background="Sport 1.jpg">
+<center>
+<h1>Informasi Toko</h1>
+<hr><br>
+Nama Toko : Sinar Mentari<br>
+Alamat: JL. Surya Menyinari No. 90<br> 
+Kontak : 08134356967<br><br>
+<a href="HAL_1"><font color="blue"><button><u>Home</u></button></font></a href><br>
+<a href="HAL_3"><font color="blue"><button><u>Next</u></button></font></a href>
+</center>
+</body>
+</html>
